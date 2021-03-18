@@ -6,7 +6,6 @@ Now my goals is to learn more of Angular, Next.js, some Django, VIM, etc. Also o
 You can ask me things of javascript, bash, c or python on: [W1CH0](https://www.facebook.com/ELW1CH0)
 
 ![wicho1001 github stats](https://github-readme-stats.vercel.app/api?username=wicho1001&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicho1001&layout=compact)](https://github.com/wicho1001/github-readme-stats)
 
 
 <!--
