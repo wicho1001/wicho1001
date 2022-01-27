@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I’m W1CH0, a frontend developer at [Bedu Education](https://bedu.org). I’m currently lived in México 🇲🇽 and i’m working on Angular, building an PWA, to consume contents of BEDU, is an app that build dynamic components trought strings. Also my  personal site is built in Sapper.
-Now my goals is to learn more of Angular, Next.js, some Django, VIM, etc. Also one of my goals is start my personal community to help other people to learn Angular.
+I’m W1CH0, a frontend developer at [Globant](https://globant.com). I’m currently lived in México 🇲🇽 and i’m working on React and Angular, knowing about the secret stuff of javascript. Also my  personal site is built in Svelte with svelte kit.
+Now my goals is to learn more of Angular, Next.js, some Django, VIM, etc. Also one of my goals is start my personal community to help other people to learn Angular, React and everything that I know.
 
 You can ask me things of javascript, bash, c or python on: [W1CH0](https://www.facebook.com/ELW1CH0)
 
